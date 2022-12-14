@@ -1,4 +1,4 @@
-# ASOS-R
+# ASOS-R - Tím 21
 R Programming Language
 
 Na čo sa používa programovací jazyk R:  
